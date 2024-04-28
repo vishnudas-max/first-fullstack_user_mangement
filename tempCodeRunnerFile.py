@@ -1,0 +1,1 @@
+print(first.data, end=' ')
